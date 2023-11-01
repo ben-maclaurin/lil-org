@@ -20,7 +20,7 @@ Keybindings:
 - =Meta + n= to jump 8 lines forward
 - =Meta + p= to jump 8 lines back
 
-/This README was written in lil-org!/
+/this README was written in 🦄 lil-org!/
 
 ** Installation
 *** Install Emacs
