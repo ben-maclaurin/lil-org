@@ -22,7 +22,7 @@ Keybindings:
 
 /this readme was written in 🦄 lil-org!/
 
-** Installation
+** Try it
 *** Install Emacs
 
 1. *Install Homebrew* (if not already installed):
