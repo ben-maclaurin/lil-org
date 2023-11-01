@@ -1,0 +1,68 @@
+* lil-org
+lil-org is an Emacs configuration built with simplicity and note-taking in mind. 
+
+lil-org features:
+
+- *Tiny footprint:* integrates only two packages: [[https://github.com/magnars/expand-region.el][expand-region]] and [[https://github.com/protesilaos/spacious-padding][spacious-padding]]
+- *Feels native:* looks and feels right at home on macOS. lil-org is inspired by [[https://en.wikipedia.org/wiki/TextEdit][TextEdit]] and [[https://www.hogbaysoftware.com/bike/][Bike]]
+- *Gentle introduction to Org mode:* lil-org is a simple way to start using [[https://orgmode.org/][Org mode]]
+
+lil-org is a personal project and in-progress. PRs/improvements warmly welcomed.
+
+Keybindings:
+
+- driven by standard Emacs keybindings
+- =Ctrl + l= to expand selection
+- =Ctrl + ;= to contract selection
+- =Cmd + Shift + C= to copy entire buffer to clipboard
+- =Meta + n= to jump 8 lines forward
+- =Meta + p= to jump 8 lines back
+
+/This README was written in lil-org!/
+
+** Installation
+*** Install Emacs
+
+1. *Install Homebrew* (if not already installed):
+   #+begin_src
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   #+end_src
+
+2. *Install Emacs*:
+   #+begin_src
+   brew install --cask emacs     
+   #+end_src
+   
+*** Configure lil-org
+
+1. *Navigate to Your Emacs Config Directory*:
+   #+begin_src
+   cd ~/.emacs.d/
+   #+end_src
+
+2. **Download lil-org**:
+ #+begin_src
+curl -O https://raw.githubusercontent.com/ben-maclaurin/lil-org/main/init.el   
+ #+end_src
+
+3. *Start Emacs*
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
