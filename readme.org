@@ -5,7 +5,7 @@ lil-org is an experimental Emacs config built with simplicity and note-taking in
 
 I wanted a simple note pad with the following features:
 
-- *fast initialisation time (.5s):* integrates only two packages: [[https://github.com/magnars/expand-region.el][expand-region]] and [[https://github.com/protesilaos/spacious-padding][spacious-padding]]. =emacs-init-time= is 0.5 seconds
+- *super fast initialisation (.5s):* integrates only two packages: [[https://github.com/magnars/expand-region.el][expand-region]] and [[https://github.com/protesilaos/spacious-padding][spacious-padding]]. =emacs-init-time= is 0.5 seconds
 - *feels native:* looks and feels right at home on macOS. lil-org is inspired by [[https://en.wikipedia.org/wiki/TextEdit][TextEdit]] and [[https://www.hogbaysoftware.com/bike/][Bike]]
 - *beginner friendly:* lil-org acts as a gentle intro to [[https://orgmode.org/][Org mode]]
 
