@@ -20,7 +20,7 @@ Keybindings:
 - =Meta + n= to jump 8 lines forward
 - =Meta + p= to jump 8 lines back
 
-/this README was written in 🦄 lil-org!/
+/this readme was written in 🦄 lil-org!/
 
 ** Installation
 *** Install Emacs
@@ -49,9 +49,8 @@ curl -O https://raw.githubusercontent.com/ben-maclaurin/lil-org/main/init.el
 
 3. *Start Emacs*
  
-
-
-
+** todo
+- [ ] dark mode (and automatic)
 
 
 
