@@ -1,7 +1,7 @@
 [[preview.png]]
 
 * lil-org
-lil-org is an Emacs configuration built with simplicity and note-taking in mind. 
+lil-org is an experimental Emacs config built with simplicity and note-taking in mind. 
 
 lil-org features:
 
