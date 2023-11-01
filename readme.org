@@ -9,8 +9,6 @@ I wanted a simple note pad with the following features:
 - *feels native:* looks and feels right at home on macOS. lil-org is inspired by [[https://en.wikipedia.org/wiki/TextEdit][TextEdit]] and [[https://www.hogbaysoftware.com/bike/][Bike]]
 - *beginner friendly:* lil-org acts as a gentle intro to [[https://orgmode.org/][Org mode]]
 
-...so I built lil-org! PRs/improvements warmly welcomed.
-
 Keybindings:
 
 - driven by standard Emacs keybindings
