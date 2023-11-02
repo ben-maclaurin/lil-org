@@ -40,7 +40,7 @@ Keybindings:
    cd ~/.emacs.d/
    #+end_src
 
-2. **Download lil-org**:
+2. *Download lil-org*:
  #+begin_src
 curl -O https://raw.githubusercontent.com/ben-maclaurin/lil-org/main/init.el   
  #+end_src
