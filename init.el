@@ -21,7 +21,6 @@
 
 (menu-bar-mode 1)
 (tool-bar-mode -1)
-(scroll-bar-mode -1)
 (context-menu-mode 1)
 
 (set-face-attribute 'default nil :family "SF Pro" :height 200)
